@@ -1,0 +1,6 @@
+.test {
+    width:700px;
+    background-color: #62a2fa;
+    opacity: 0.8;
+    background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #62a2fa 10px ), repeating-linear-gradient( #444cf755, #444cf7 );
+}
